@@ -1,1 +1,3 @@
-reeeeeeeeeeeee
+Plaintext
+streamlit
+google-genai
